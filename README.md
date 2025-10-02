@@ -74,4 +74,4 @@ A simulação termina quando todas as pessoas tiverem saído do ambiente.
 
 ---
 
-**Autor:** Ana Clara Camargos Lima e Pedro Cunha
+**Autor:** Ana Clara Camargos Lima e Pedro Silva Cunha
